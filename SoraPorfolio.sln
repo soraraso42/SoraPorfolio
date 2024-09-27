@@ -5,6 +5,11 @@ VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoraPorfolio", "SoraPorfolio\SoraPorfolio.csproj", "{52F07F9B-0292-4E1B-81B4-0439067A99EA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{5396E3C1-98D1-466F-B5AC-37397B5B43AB}"
+	ProjectSection(SolutionItems) = preProject
+		Development.md = Development.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
